@@ -13,6 +13,17 @@ Todo se ejecuta **on-chain**, sin terceros, sin administradores y sin posibilida
 
 ---
 
+## 🧪 Estado del proyecto
+
+Este proyecto es una **Prueba de Concepto (PoC)**.
+
+- ❌ No está desplegado en mainnet
+- ❌ No ha sido auditado
+- ❌ No está pensado todavía para uso en producción
+- ✔️ Diseñado para aprendizaje, debate y experimentación
+
+Se agradecen contribuciones, feedback y sugerencias.
+
 ## ✨ Características principales
 
 - 🧑‍🤝‍🧑 **Pareja fija (1:1)** — solo dos direcciones, inmutables
