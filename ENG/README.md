@@ -13,6 +13,17 @@ Everything is handled **on-chain**, with **no third parties**, **no admins**, an
 
 ---
 
+## 🧪 Project Status
+
+This project is a **Proof of Concept (PoC)**.
+
+- ❌ Not deployed on mainnet
+- ❌ Not audited
+- ❌ Not intended for production use yet
+- ✔️ Designed for learning, discussion and experimentation
+
+Contributions, feedback and suggestions are welcome.
+
 ## ✨ Key Features
 
 - 🧑‍🤝‍🧑 **Fixed pair (1:1)** — only two addresses, immutable
